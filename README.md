@@ -1,6 +1,6 @@
 # Projeto de exemplo - Gerenciador de estoque e vendas - Vavá
 
-A new Flutter application.
+A new Flutter application + Firebase
 
 ## Getting Started
 

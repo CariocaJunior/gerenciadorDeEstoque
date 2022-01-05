@@ -1,4 +1,4 @@
-# daniela
+# Projeto de exemplo - Gerenciador de estoque e vendas - Vavá
 
 A new Flutter application.
 
